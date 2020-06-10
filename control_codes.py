@@ -55,4 +55,6 @@ CONTROL_CODES = {
     "News": 4256,
     "Translation": 26820,
     "multilingual": 128406,
+    "Recipe": 20111,
+    "Salad": 12993
 }
